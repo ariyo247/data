@@ -1,0 +1,83 @@
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+
+body{
+
+  background-image: url(../img/hero-bg1.png); #
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: auto;
+}
+
+/*HERO IMAGE============*/
+#hero-text h1 {
+	color:#0C344D;
+	font-weight: 800;
+	font-size: 70px;
+	margin-top: 340px;
+	z-index: 999;
+}
+
+#img-hero{
+	width: 423px;
+    height: 513px;
+    margin-top: 170px;
+    float: right;
+}
+
+/*
+==============================
+SECTION 2 DATA PAGE
+==============================
+*/
+#data-page{
+	background-color: white;
+	z-index: 1;
+	margin-top: 13rem;
+}
+
+#data-page-text-wrapper{
+	background-image: url(../img/hero-bg.png);
+	margin-top: 5rem;
+}
+
+#data-page-text-wrapper p{
+	margin-top: 6rem;
+	text-align: center;
+	font-size: 30px;
+	color: #0C344D;
+}
+
+#button-getInTouch{
+justify-content: center;
+}
+
+#getInTouch{
+	color: #0C344D;
+	justify-content: center;
+	align-items: center;
+	border-color: #0C344D;
+	border:8px 8px 8px 8px;
+	margin-top: 8rem;
+	margin-left: 10rem;
+	margin-bottom: 60px;
+	width: 135px;
+	height: 50px;
+	border: 2px solid #0C344D;
+	border-radius: 8px;
+	opacity: 1;
+}
+
+
+
+
+
+
+/*}
+    text-align: center;
+    padding: 2px 0;
+  }
+}
